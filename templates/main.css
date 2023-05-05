@@ -1,0 +1,79 @@
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.contact-info a {
+  display: inline-flex;
+  align-items: center;
+  color: #000000;
+  margin: 10px 0;
+  text-decoration: none;
+}
+
+.contact-info a i {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.contact-info a:hover {
+  color: #007bff;
+}
+
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+.contact-info a {
+  display: inline-flex;
+  align-items: center;
+  color: #000000;
+  margin: 10px 0;
+  text-decoration: none;
+}
+.contact-info a i {
+  font-size: 20px;
+  margin-right: 10px;
+}
+.contact-info a:hover {
+  font-weight: bold;
+  color: #000000;
+}
+.card {
+  background-color: #ffffff;
+  color: #000000;
+  border-color: #000000;
+}
+.card-title {
+  color: #000000;
+}
+.card-text {
+  color: #000000;
+}
+.card-link {
+  color: #000000;
+}
+.content-hidden {
+  transform: translateY(-100%);
+}
+#phone {
+  font-size: 20px;
+}
+
+#mail {
+  font-size: 20px;
+}
+#place {
+  font-size: 20px;
+}
+#linkedin {
+  padding-top: 7px;
+  font-size: 30px;
+  color: #007bff;
+}
+#github {
+  font-size: 30px;
+  color: #6d0979;
+}
